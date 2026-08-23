@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=PranjalSingh-dev&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=PranjalSingh13&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <h3 align="center">
@@ -57,7 +57,7 @@ Custom database engine implementing ACID principles.
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
   </a>
 
-  <a href="https://github.com/PranjalSingh-dev">
+  <a href="https://github.com/PranjalSingh13">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
 </p>
@@ -78,20 +78,20 @@ Custom database engine implementing ACID principles.
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/PranjalSingh-dev/PranjalSingh-dev/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/PranjalSingh13/PranjalSingh13/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Pranjal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranjalSingh-dev&show_icons=true&theme=tokyonight)
+![Pranjal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranjalSingh13&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PranjalSingh-dev&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PranjalSingh13&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalSingh-dev&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalSingh13&layout=compact&theme=tokyonight)
 ## 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PranjalSingh-dev&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PranjalSingh13&theme=tokyo-night)
 
 ---
 
